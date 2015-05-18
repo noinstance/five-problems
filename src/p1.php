@@ -1,6 +1,7 @@
 <?php
 
-echo "Problem #1\n\n";
+// Write three functions that compute the sum of the numbers in a 
+// given list using a for-loop, a while-loop, and recursion.
 
 $list = [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ]; // sum = 45
 
