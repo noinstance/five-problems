@@ -19,7 +19,7 @@ function make100($n = 1, $trail = [ 1 ]) {
 		$sum = calc($trail);
 
 		if($sum === 100) {
-			// horray, print the thing
+			// hooray, print the thing
 			echo "ayy! " . $sum . "\n";
 			echo flat($trail);
 			echo "\n***\n";
